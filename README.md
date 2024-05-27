@@ -1,7 +1,3 @@
-# awesome-metaid
-
-⚡️ A curated list of awesome things related to MetaID
-
 <!--lint disable awesome-heading awesome-github awesome-toc double-link -->
 <p align="center">
   <br>
@@ -13,7 +9,7 @@
 <h2 align='center'>Awesome MetaID</h2>
 
 <p align='center'>
-A curated list of awesome things related to <a href='https://doc.metaid.io/'>MetaID</a>
+⚡️ A curated list of awesome things related to <a href='https://doc.metaid.io/'>MetaID</a>
 <br><br>
 
 <a href='https://github.com/sindresorhus/awesome'>
